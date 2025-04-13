@@ -37,8 +37,7 @@ function App() {
           </div>
         </div>
         <div className="result-container flex justify-center m-5">
-          <div className="result-img w-90 h-80 rounded-2xl">
-            {/* <img src={src} alt="" className="w-[100%] h-[100%] object-cover block rounded-2xl"/> */}
+          <div className="result-img rounded-2xl mx-10">
             <img  src={src} className="w-[100%] h-[100%] object-fill block rounded-2xl" />
           </div>
         </div>
